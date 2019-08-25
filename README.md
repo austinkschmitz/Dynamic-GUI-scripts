@@ -15,10 +15,6 @@ Please make sure to update tests as appropriate.
 Copy the .ps1 script to your common script directory for running. It is advised to run with administration.
 
 
-### Support
-This is an open source project. Contact POC for a fatal flaw
-
-
 ### Roadmap
 Possible mutli-threading.
 
